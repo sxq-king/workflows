@@ -1,6 +1,0 @@
-jobs:
-  example-job:
-    steps:
-      - name: Run build script
-        run: ./.github/workflows/sxq.sh
-        shell: bash
